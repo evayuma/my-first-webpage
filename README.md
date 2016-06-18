@@ -1,17 +1,18 @@
 # My First Webpage
 
-#### This is an exercise from Epicodus to create a simple HTML webpage
+#### This is an exercise from Epicodus to create simple HTML/CSS webpages
 
 #### By Eva Yuma and Epicodus
 
 ## Description
 
-This is a simple HTML webpage with pictures and a link to my "favorite things". It' intended as an exercise to learn HTML.  
+These are simple HTML/CSS webpages with pictures. They're intended as an exercise to learn HTML.  
 
 ## Setup/Installation Requirements
 
 * To view you can simply copy & paste into a text editor and then open in a browser.
 * If you would like to work on the code simply clone it to your own repository.
+* If you would like to view the images then create an folder entitled img within the project folder you've created. Make sure the images keep their original names so that the pathway is correct when you view it in the browser.
 
 ## Known Bugs
 
